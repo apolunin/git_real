@@ -4,7 +4,7 @@
  * Simple 'hello world' program
  */
 int main(void) {
-    printf("Hello Beautiful World!\n");
+    printf("Hello World!\n");
     return 0;
 }
 
